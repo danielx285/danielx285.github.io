@@ -75,11 +75,6 @@ table, .table2{
 th, tr {
   color: #444;
   font-size: 17px;
-  padding-right : 1px;
-  /*border-bottom: 2px solid #ddd;*/
-  border-radius: 5px;
-  -moz-border-radius: 5px;
-  
 }
 
 td{
