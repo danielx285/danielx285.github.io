@@ -61,6 +61,7 @@ header {
 h1, .h1, h2, .h2, h3, .h3 {
   margin-top: 23px;
   margin-bottom: 11.5px;
+  margin-right: 7px;
 }
 
 table, .table2{
