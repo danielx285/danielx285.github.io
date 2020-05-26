@@ -85,5 +85,5 @@ th, tr {
 td{
   font-size: 17px;
   padding: 0px 10px 0px 0px;
-  text-align: left;
+  position: absolute;
 }
