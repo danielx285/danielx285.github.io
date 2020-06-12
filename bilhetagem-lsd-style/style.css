@@ -64,6 +64,10 @@ h1, .h1, h2, .h2, h3, .h3 {
   margin-right: 7px;
 }
 
+.use_per_hour{
+  border-bottom: 1px solid #ddd;
+}
+
 table, .table2{
   border-collapse: separate;
   border-spacing: 2px;
