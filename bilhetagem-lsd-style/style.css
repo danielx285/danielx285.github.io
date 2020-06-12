@@ -47,7 +47,7 @@ header {
   margin: 65px 0 23px;
   margin-left: 10vw;
   margin-right: 10vw;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid #ddd;
 }
 
 .project {
@@ -76,7 +76,6 @@ th, tr {
   color: #444;
   font-size: 17px;
   padding-right: 50px;
-  border-bottom: 1px solid #eee;
 }
 
 td{
