@@ -34,6 +34,10 @@ header {
   font-weight: 400;
 }
 
+.p{
+  margin-top: 1px;
+}
+
 .help-text {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 400;
