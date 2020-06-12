@@ -34,8 +34,9 @@ header {
   font-weight: 400;
 }
 
-.p{
-  margin-top: 1px;
+p{
+  margin-bottom: 0px;
+  font-size: 56px;
 }
 
 .help-text {
