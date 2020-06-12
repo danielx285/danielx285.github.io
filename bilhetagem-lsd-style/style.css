@@ -65,6 +65,10 @@ h1, .h1, h2, .h2, h3, .h3 {
 }
 
 .use_per_hour{
+  padding-bottom: 10.5px;
+  margin: 65px 0 23px;
+  margin-left: 10vw;
+  margin-right: 10vw;
   border-bottom: 1px solid #ddd;
 }
 
