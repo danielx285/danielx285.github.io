@@ -55,7 +55,7 @@ p{
   border-bottom: 1px solid #ddd;
 }
 
-.project {
+.project, .sponsor {
   padding-bottom: 10.5px;
   margin: 65px 0 23px;
   margin-left: 10vw;
